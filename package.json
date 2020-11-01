@@ -1,0 +1,29 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "concat-stream": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fawn": "^2.1.5",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
+    "module": "^1.2.5",
+    "modules": "^0.4.0",
+    "mongoose": "^5.10.10",
+    "nodemon": "^2.0.2",
+    "pretty-format": "^26.6.1"
+  }
+}
